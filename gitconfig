@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = muhamed.aitamar@gmail.com
+	name = AitAmar Mohamed
